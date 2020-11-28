@@ -1,3 +1,3 @@
-</i>Public Key </i>
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEy5eb5x2cz+8imnlZp4fDJ9RJUAhbnmiFMjTTH6g6K7SawLfr+pnCH/PFKxR4bLsHZcdI0CXFb4e+1XEKoIyOfLtLnTLIIhyqnG1g5DmtKWX0xc3pBBuCm6TQRlhcExFcAorHbSA21p+cC3ssZ8ZBr9Z6xovgRTIYcFBXL0HHJwiNba6eW53uAbYjB3EW7IksOK/v4DH/GNLZopxrQ66VRMdyIxfU7xO8yMHKSYzwxKW6AqCrzGiKZOfraOg1rZaMPW7g3Gjv5bKDHMSruQl5Gbqx/hsHsNH1xTA1qQS0P6xc3L8oQ6TNsBLVtiYSFtGHWr7XkYeiRES1r7KAi+KCfyakZ8Ci1UBNNhiyjRsqP69eM/cQbKFrkuBjEjlFeKuNqu8IL7e+iy7AVhL/06FglSAsjVmynx8x/c3GwUVSVKne47na3UvFfmsZhxbTAIPrClEScTh5gK4ivuMuv65HdNOn4V/dAmy287t+ENpwlySJCIlg6smUL6xCn0wZ2uM= rajmishra@RAJs-MacBook-Pro.local
-
+#Public Key
+[pubkey.asc](./pubkey.asc)
+gpg --keyserver keyserver.ubuntu.com --recv-keys 2C0A43452FA35AEB76D93423BAFD83DBB036B551
